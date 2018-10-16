@@ -5,6 +5,9 @@
     <classes>
       <class name="E2E.JenkinSelenium.TC001"/>
       <class name="E2E.JenkinSelenium.TC2"/>
+      <class name="E2E.JenkinSelenium.TC3"/>
+      <class name="E2E.JenkinSelenium.TC4"/>
+      <class name="E2E.JenkinSelenium.TC5"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
